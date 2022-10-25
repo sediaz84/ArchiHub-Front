@@ -15,9 +15,6 @@ Our mentor:
 Tobias Piraino
 
 
-To run the backend and frontend type npm run
-
-
 Here´s our original proposal: 
 Both in architecture and programming, in large projects, we work as a group. There is not yet a way to share files between architects and comment on changes in a centralized way.
 ARCHIHUB will solve this problem by creating a GitHub for autocad files, where each user can choose their collaborators, share files and upload the different updates.
