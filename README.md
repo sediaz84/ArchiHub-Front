@@ -34,4 +34,15 @@ In principle, ARCHIHUB would serve as a work tool, organizing your files and as 
 
 
 
-03-10-2022 EL DIA QUE LUCIANO DOMINÓ REACT Y TOMAS SE MURIO DE ENVIDIA.
+<h3>Try out</h3>
+<h3>First</h3>
+-Clone the repository "backend-arquihub" and follow the steps, then go back and start at step two.
+<h3>Second</h3>
+Clone the repository
+<h3>Third</h3>
+-Open terminal
+<h3>Fourth</h3>
+-Type npm install
+<h3>Fifth</h3>
+-Type npm start
+<h3>Front is run localhost:3000</h3>
