@@ -45,4 +45,4 @@ Clone the repository
 -Type npm install
 <h3>Fifth</h3>
 -Type npm start
-<h3>Front is run localhost:3000</h3>
+<h3>Front is run in localhost:3000</h3>
