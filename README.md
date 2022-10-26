@@ -35,8 +35,8 @@ We used mongoDB, nodeJS, express, Javascript, React, React Toolkit and Tailwind 
 
 ---
 <div>
-  <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.17.00%20PM.jpeg" alt="img"/>
   <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.16.22%20PM.jpeg" alt="img"/>
+  <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.17.00%20PM.jpeg" alt="img"/>  
   <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.17.13%20PM.jpeg" alt="img"/>
 </div>
 
