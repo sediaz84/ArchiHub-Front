@@ -17,7 +17,6 @@ In principle, ARCHIHUB would serve as a work tool, organizing your files and as 
 
 
 <h2>Members:</h2> 
-</br>
 <h4>Luciano Juan Balbiano</h4>
 <h4>Ivo Alegre</h4>
 <h4>Paula Carolina Celman Vilches</h4>
@@ -27,8 +26,9 @@ In principle, ARCHIHUB would serve as a work tool, organizing your files and as 
 <h4>Tomás Federico Pastore</h4>
 
 <h2>Our mentor:</h2>
-</br>
 <h4>Tobias Piraino</h4>
+
+---
 
 We used mongoDB, nodeJS, express, Javascript, React, React Toolkit and Tailwind CSS.
 
