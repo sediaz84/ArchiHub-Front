@@ -29,6 +29,10 @@ Posts could allow adding comments and a rating system, which will reach post aut
 If necessary, we would add a marketplace section, where architects can sell completed works or plans.
 In principle, ARCHIHUB would serve as a work tool, organizing your files and as a page where you can publish your work and thus connect with potential clients and network.
 
+---
+<div>
+  <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.16.22%20PM.jpeg" alt="img"/>
+</div>
 
 
 <h3>Try out</h3>
