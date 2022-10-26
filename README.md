@@ -1,21 +1,7 @@
 # This is our final group work from our Full Stack Developer studies at HENRY.
 
-We used mongoDB, nodeJS, express, Javascript, React, React Toolkit and Tailwind CSS.
 
-Members: 
-Luciano Juan Balbiano
-Ivo Alegre
-Paula Carolina Celman Vilches
-Sebastián Eduardo Díaz
-Gonzalo Pirovano
-Franco Maximiliano Ferreyra
-Tomás Federico Pastore
-
-Our mentor: 
-Tobias Piraino
-
-
-Here´s our original proposal: 
+<h1>Here´s our original proposal:</h1> 
 Both in architecture and programming, in large projects, we work as a group. There is not yet a way to share files between architects and comment on changes in a centralized way.
 ARCHIHUB will solve this problem by creating a GitHub for autocad files, where each user can choose their collaborators, share files and upload the different updates.
 Even working individually, it is important to have a place where you can record the changes and be able to later go back and study the different alternatives or solutions that were proposed.
@@ -29,9 +15,29 @@ Posts could allow adding comments and a rating system, which will reach post aut
 If necessary, we would add a marketplace section, where architects can sell completed works or plans.
 In principle, ARCHIHUB would serve as a work tool, organizing your files and as a page where you can publish your work and thus connect with potential clients and network.
 
+
+<h2>Members:</h2> 
+</br>
+<h4>Luciano Juan Balbiano</h4>
+<h4>Ivo Alegre</h4>
+<h4>Paula Carolina Celman Vilches</h4>
+<h4>Sebastián Eduardo Díaz</h4>
+<h4>Gonzalo Pirovano</h4>
+<h4>Franco Maximiliano Ferreyra</h4>
+<h4>Tomás Federico Pastore</h4>
+
+<h2>Our mentor:</h2>
+</br>
+<h4>Tobias Piraino</h4>
+
+We used mongoDB, nodeJS, express, Javascript, React, React Toolkit and Tailwind CSS.
+
+
 ---
 <div>
+  <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.17.00%20PM.jpeg" alt="img"/>
   <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.16.22%20PM.jpeg" alt="img"/>
+  <img src="https://github.com/sediaz84/image-arquihub/blob/main/WhatsApp%20Image%202022-10-25%20at%204.17.13%20PM.jpeg" alt="img"/>
 </div>
 
 
